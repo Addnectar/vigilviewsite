@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="49"
+   height="48"
+   viewBox="0 0 12.964583 12.7"
+   version="1.1"
+   id="svg920"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview922"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="3.6988215"
+     inkscape:cx="44.473624"
+     inkscape:cy="30.279914"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs917" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g949"
+       inkscape:export-filename="C:\Users\Admin\Desktop\vvweb\images\favicon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(0.10682726,0,0,0.10682726,19.894556,-1.885797)">
+      <path
+         id="path941"
+         style="fill:#ff6200;fill-opacity:1;stroke-width:0.264583"
+         inkscape:transform-center-y="13.760901"
+         d="m -125.7707,128.65836 -47.66916,-82.5654 61.17637,59.91339 z"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#ff6200;stroke-width:1.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -115.39949,46.25557 37.29795,-0.16262 -17.18962,29.79596 z"
+         id="path943" />
+      <path
+         style="fill:none;stroke:#ff6200;stroke-width:1.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -172.51381,46.09296 60.05188,58.8664 11.74681,-20.20692 -27.64896,-38.65949 z"
+         id="path945"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path947"
+         style="fill:#ff6200;fill-opacity:1;stroke-width:0.264583"
+         inkscape:transform-center-y="13.760901"
+         d="m -95.08816,76.08645 -20.72839,-30.74184 25.25535,23.4311 z"
+         sodipodi:nodetypes="cccc" />
+    </g>
+  </g>
+</svg>

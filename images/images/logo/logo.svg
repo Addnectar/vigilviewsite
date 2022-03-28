@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="157"
+   height="56"
+   viewBox="0 0 41.539582 14.816667"
+   version="1.1"
+   id="svg1043"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1045"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="74.75"
+     inkscape:cy="104.5"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     width="793.70081px" />
+  <defs
+     id="defs1040">
+    <rect
+       x="56.862639"
+       y="6.8477768"
+       width="133.63736"
+       height="85.652223"
+       id="rect4893" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g949"
+       inkscape:export-filename="C:\Users\Admin\Downloads\g35514.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(0.13391611,0,0,0.13391611,25.139007,-4.3636234)">
+      <path
+         id="path941"
+         style="fill:#ff6200;fill-opacity:1;stroke-width:0.264583"
+         inkscape:transform-center-y="13.760901"
+         d="m -125.7707,128.65836 -47.66916,-82.5654 61.17637,59.91339 z"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#ff6200;stroke-width:1.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -115.39949,46.25557 37.29795,-0.16262 -17.18962,29.79596 z"
+         id="path943" />
+      <path
+         style="fill:none;stroke:#ff6200;stroke-width:1.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -172.51381,46.09296 60.05188,58.8664 11.74681,-20.20692 -27.64896,-38.65949 z"
+         id="path945"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path947"
+         style="fill:#ff6200;fill-opacity:1;stroke-width:0.264583"
+         inkscape:transform-center-y="13.760901"
+         d="m -95.08816,76.08645 -20.72839,-30.74184 25.25535,23.4311 z"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.44539788,0,0,0.44539788,-8.4773727,-10.327849)"
+       id="text4891"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4893);fill:#ff6200;fill-opacity:1;stroke:none"><tspan
+         x="56.863281"
+         y="43.340869"
+         id="tspan945"><tspan
+           style="font-weight:500;font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'"
+           id="tspan943">VIGILVIEW</tspan></tspan></text>
+  </g>
+</svg>
